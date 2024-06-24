@@ -23,7 +23,7 @@ const Feedback = () => {
                 speed= {50} 
                 repeat= {Infinity}
                 />
-                </h1>
+            </h1>
         </div>
     </div>
   )
